@@ -109,7 +109,8 @@ setTimeout(function(){
 
 
   setTimeout(function(){
-      alert("просто пропиши в терминал HELP или INSTRUCTION (мелким текстом")
+      //alert("просто пропиши в терминал HELP или INSTRUCTION (мелким текстом")
+    output.innerText += "write help or instriction\n";
     }, 1000);
 
 function button(){
