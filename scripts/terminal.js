@@ -21,12 +21,30 @@ input.addEventListener("keydown", function (e) {
 
     } else if (cmd === "neofetch") {
       output.innerText += `
-██╗  ██╗ █████╗ ██╗     ██╗     
-██║ ██╔╝██╔══██╗██║     ██║    
-█████╔╝ ███████║██║     ██║     
-██╔═██╗ ██╔══██║██║     ██║     
-██║  ██╗██║  ██║███████╗██╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝
+
+
+..............                                         
+            ..,;:ccc,.                              ┌──────────────────────────────────────────┐
+          ......''';lxO.                              󰇺 Chassis : 
+.....''''..........,:ld;                              󰣇 OS : Kali Linux
+           .';;;:::;,,.x,                             >_ Terminal : kitty 0.42.2
+      ..'''.            0Xxoc:,.  ...                 
+  ....                ,ONkc;,;cokOdc',.              
+ .                   OMo           ':ddo.           
+                    dMc               :OO;            
+                    0M.                 .:o.      
+                    ;Wd
+                     ;XO,                             
+                       ,d0Odlc;,..                  
+                           ..',;:cdOOd::,.            
+                                    .:d;.':;.         
+                                       'd,  .'        
+                                         ;l   ..      
+                                          .o          
+                                            c         
+                                            .'      
+                                             .        
+
            welcome to the dark side...
 
   Terminal locked and loaded
