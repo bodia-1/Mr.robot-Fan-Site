@@ -14,7 +14,7 @@ input.addEventListener("keydown", function (e) {
       output.innerText += "elliot\n";
 
     } else if (cmd === "help") {
-      output.innerText += "Команды: whoami, help, clear, neofetch, show site, hide site, python, fix, instriction\n";
+      output.innerText += "Команды: whoami, help, clear, neofetch, show site, hide site, python, fix, instruction\n";
 
     } else if (cmd === "clear") {
       output.innerText = "";
